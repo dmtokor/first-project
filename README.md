@@ -27,3 +27,12 @@ git init
 ```
 
 Это лишь некоторые функции markdown.
+
+```python
+print(5)
+a = "hi python"
+```
+
+_Markdown_
+
+## Вот и все
